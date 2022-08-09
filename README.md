@@ -37,5 +37,5 @@ Introduction to git commits was quite simple. But it never hurts to repeat the i
 Practicing how to fetch data from a remote repository with the command ***git fetch*** was valuable.
 
 **Things to be used in the future:**
-All the commands from this part of https://learngitbranching.js.org/ can be and should be used in the workflow. 
+All the commands from this part of https://learngitbranching.js.org/ (namely, git push, git pull, git fetch, etc.) can be used in the workflow. 
 </details>
