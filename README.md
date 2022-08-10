@@ -13,7 +13,7 @@
 **Things new to me:**
 I have used before a few commands, such as ***git add***, ***git commit***, ***git push***, ***git clone***, ***git status***, ***git merge*** so many things were actually new. They definitely should be put into practice as much as possible to solidify knowledge.
 
-**What surprised me:**
+**What struck me:**
 The anatomy of a commit message was a complete discovery. So, I know now that a commit message is generally broken up into a few sections. The first line is usually kept to about 50 characters or less. The line contains a short description of what the commit changes are about. After the first line, comes an empty line, and the rest of the text is usually kept under 72 characters.
 
 **Things to be used in the future:**
@@ -33,9 +33,26 @@ The anatomy of a commit message was a complete discovery. So, I know now that a 
 **Things new to me:**
 Introduction to git commits was quite simple. But it never hurts to repeat the information.
 
-**What surprised me:**
+**What struck me:**
 Practicing how to fetch data from a remote repository with the command ***git fetch*** was valuable.
 
 **Things to be used in the future:**
 All the commands from this part of https://learngitbranching.js.org/ (namely, git push, git pull, git fetch, etc.) can be used in the workflow. 
 </details>
+<details><summary>Linux CLI and Networking</summary>
+  <details><summary><h3>Linux Survival (4 modules)</h3></summary>
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-1.png">
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-2.png">
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-3.png">
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-4.png">
+  
+**Things new to me:**
+I have used before a few commands, such as ***git add***, ***git commit***, ***git push***, ***git clone***, ***git status***, ***git merge*** so many things were actually new. They definitely should be put into practice as much as possible to solidify knowledge.
+
+**What struck me:**
+The anatomy of a commit message was a complete discovery. So, I know now that a commit message is generally broken up into a few sections. The first line is usually kept to about 50 characters or less. The line contains a short description of what the commit changes are about. After the first line, comes an empty line, and the rest of the text is usually kept under 72 characters.
+
+**Things to be used in the future:**
+  </details>
+  
+
