@@ -53,14 +53,40 @@
 
 **What struck me:**
 <p>
-<code>ps aux</code> - to list all the processes;
-<code>chmod</code> - to change mode, change security permissions (for u - user, g - group, o - other);
-<code>man</code> (stands for manual) - displays portions of online documentation;
-<code>man man</code> - allows to search for commands which partain to a particular subject.
+<ul>
+<li><code>ps aux</code> - to list all the processes;</li>
+<li><code>chmod</code> - to change mode, change security permissions (for u - user, g - group, o - other);</li>
+<li><code>man</code> (stands for manual) - displays portions of online documentation;</li>
+<li><code>man man</code> - allows to search for commands which partain to a particular subject.</li>
+  </ul>
   </p>
 
 **Things to be used in the future:**
 <p>I am pretty sure that I will use Linux in practice someday and the studied material will come to the rescue. If all the commands exist, then they are used, hopefully, I will use all of them.</p>
+
+  <h3>HTTP: The Protocol Every Web Developer Must Know—Part 1</h3>
+  
+**Things new to me:**
+<p>HTTP verbs in a request that are though less used: <strong>HEAD</strong>, <strong>TRACE</strong>, <strong>OPTIONS</strong>.</p>
+
+**What struck me:**
+<p>Number of general headers are shared by both the request and response messages: <code>Cache-Control</code>, <code>Connection</code>, <code>Connection</code>, <code>Pragma</code>, <code>Trailer</code>, <code>Transfer-encoding</code>, <code>Via</code>, <code>Upgrade</code>.
+</p>
+
+**Things to be used in the future:**
+<p>How to send an HTTP Request With the Fetch API and choose the right HTTP verbs and headers for my use-case.</p>
+
+<h3>HTTP: The Protocol Every Web Developer Must Know—Part 2</h3>
+  
+**Things new to me:**
+<p>HTTP verbs in a request that are though less used: <strong>HEAD</strong>, <strong>TRACE</strong>, <strong>OPTIONS</strong>.</p>
+
+**What struck me:**
+<p>Number of general headers are shared by both the request and response messages: <code>Cache-Control</code>, <code>Connection</code>, <code>Connection</code>, <code>Pragma</code>, <code>Trailer</code>, <code>Transfer-encoding</code>, <code>Via</code>, <code>Upgrade</code>.
+</p>
+
+**Things to be used in the future:**
+<p>How to send an HTTP Request With the Fetch API and choose the right HTTP verbs and headers for my use-case.</p>
   </details>
   
 
