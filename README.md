@@ -2,7 +2,7 @@
 
 ## General
 <details><summary><h4>Git Basics</h4></summary>
-  <h3>Coursera Introduction to Git and GitHub</h3>
+<h3>:white_check_mark: Coursera Introduction to Git and GitHub</h3>
 <details><summary>Week 1</summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_basics/coursera-git-week-1.png">
   </details>
@@ -23,7 +23,7 @@
 - <code>git commit</code> --amend - is used to make changes to commits after-the-fact, which can be useful for making notes about a given commit;
 - <code>git revert</code> - makes a new commit which effectively rolls back a previous commit.
 
-<h3> learngitbranching.js.org</h3>
+<h3>:white_check_mark: learngitbranching.js.org</h3>
 <details><summary>Introduction Sequence</summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_basics/introduction-sequence.png">
   </details>
@@ -41,7 +41,7 @@
 <p>All the commands from this part of https://learngitbranching.js.org/ (namely, <code>git push</code>, <code>git pull</code>, <code>git fetch</code>, etc.) can be used in the workflow.</p>
 </details>
 <details><summary><h4>Linux CLI and Networking</h4></summary>
-  <details><summary><h3>Linux Survival (4 modules)</h3></summary>
+  <details><summary><h3>:white_check_mark: Linux Survival (4 modules)</h3></summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-1.png">
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-2.png">
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-3.png">
@@ -64,7 +64,7 @@
 **Things to be used in the future:**
 <p>I am pretty sure that I will use Linux in practice someday and the studied material will come to the rescue. If all the commands exist, then they are used, hopefully, I will use all of them.</p>
 
-  <h3>HTTP: The Protocol Every Web Developer Must Know—Part 1</h3>
+  <h3>:white_check_mark: HTTP: The Protocol Every Web Developer Must Know—Part 1</h3>
   
 **Things new to me:**
 <p>HTTP verbs in a request that are though less used: <strong>HEAD</strong>, <strong>TRACE</strong>, <strong>OPTIONS</strong>.</p>
@@ -76,7 +76,7 @@
 **Things to be used in the future:**
 <p>How to send an HTTP Request With the Fetch API and choose the right HTTP verbs and headers for my use-case.</p>
 
-<h3>HTTP: The Protocol Every Web Developer Must Know—Part 2</h3>
+<h3>:white_check_mark: HTTP: The Protocol Every Web Developer Must Know—Part 2</h3>
   
 **Things new to me:**
 <p>Existence of digest authentication that does not transfer a password to the server, instead, the client takes the password and the username.</p>
