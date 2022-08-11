@@ -1,7 +1,7 @@
 # kottans-frontend
 
 ## General
-<details><summary>Git Basics</summary>
+<details><summary><h4>Git Basics</h4></summary>
   <h3>Coursera Introduction to Git and GitHub</h3>
 <details><summary>Week 1</summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_basics/coursera-git-week-1.png">
@@ -40,7 +40,7 @@
 **Things to be used in the future:**
 <p>All the commands from this part of https://learngitbranching.js.org/ (namely, <code>git push</code>, <code>git pull</code>, <code>git fetch</code>, etc.) can be used in the workflow.</p>
 </details>
-<details><summary>Linux CLI and Networking</summary>
+<details><summary><h4>Linux CLI and Networking</h4></summary>
   <details><summary><h3>Linux Survival (4 modules)</h3></summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-1.png">
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-2.png">
@@ -79,14 +79,14 @@
 <h3>HTTP: The Protocol Every Web Developer Must Know—Part 2</h3>
   
 **Things new to me:**
-<p>HTTP verbs in a request that are though less used: <strong>HEAD</strong>, <strong>TRACE</strong>, <strong>OPTIONS</strong>.</p>
+<p>Existence of digest authentication that does not transfer a password to the server, instead, the client takes the password and the username.</p>
 
 **What struck me:**
-<p>Number of general headers are shared by both the request and response messages: <code>Cache-Control</code>, <code>Connection</code>, <code>Connection</code>, <code>Pragma</code>, <code>Trailer</code>, <code>Transfer-encoding</code>, <code>Via</code>, <code>Upgrade</code>.
+<p>If the server does not send any Cache-Control headers, the client is free to use its own heuristic expiration algorithm to determine freshness.
 </p>
 
 **Things to be used in the future:**
-<p>How to send an HTTP Request With the Fetch API and choose the right HTTP verbs and headers for my use-case.</p>
+<p>Now I know all the cache processing which will definitely be useful in my future work.</p>
   </details>
   
 
