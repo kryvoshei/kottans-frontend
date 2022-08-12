@@ -44,7 +44,7 @@
 <p>All the commands from this part of https://learngitbranching.js.org/ (namely, <code>git push</code>, <code>git pull</code>, <code>git fetch</code>, etc.) can be used in the workflow.</p>
 </details>
 <details><summary><h2>Linux CLI and Networking</h2></summary>
-  <details><summary><h3>:white_check_mark: Linux Survival (4 modules)</h3></summary>
+  <details><summary><h3>:white_check_mark: Linux Survival (4 modules) (watch screenshots here)</h3></summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-1.png">
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-2.png">
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-3.png">
@@ -93,19 +93,24 @@
   </details>
   
 <details><summary><h2>Git Collaboration</h2></summary>
-  <details><summary><h3>:white_check_mark:  Introduction to Git and GitHub Weeks 3 and 4</h3></summary>
+  <details><summary><h3>:white_check_mark:  Introduction to Git and GitHub Weeks 3 and 4 (watch screenshots here)</h3></summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_collaboration/coursera-git-week-3.png">
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_collaboration/coursera-git-week-4.png">
    </details> 
    
 **Things new to me:**
-<p>Existence of digest authentication that does not transfer a password to the server, instead, the client takes the password and the username.</p>
+<p>We have two options for combining commits, <i>squash</i> and <i>fix up</i>. In both cases, the contents of the selected commit are merged into the previous commit in the list. </p>
 
 **What amazed me:**
-<p>If the server does not send any Cache-Control headers, the client is free to use its own heuristic expiration algorithm to determine freshness.
+<p>There is an option of auto-merge. People with write permissions to a repository can enable auto-merge for a pull request.
 </p>
 
 **Things to be used in the future:**
-<p>Now I know all the cache processing which will definitely be useful in my future work.</p>
+<p>As advided, I will not rebase changes that have been pushed to remote repos.</p>
+  
+  <details><summary><h3>:white_check_mark: learngitbranching.js.org (watch screenshots here)</h3></summary>
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_collaboration/git-1.png">
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_collaboration/git-2.png">
+   </details> 
  </details>  
 
