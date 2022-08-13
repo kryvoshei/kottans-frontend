@@ -14,7 +14,7 @@
   </details>
   
 **Things new to me:**
-<p>I have used before a few commands, such as *git add*, *git commit*, *git push*, *git clone*, *git status*, *git merge* so many things were actually new. They definitely should be put into practice as much as possible to solidify knowledge.</p>
+  <p>I have used before a few commands, such as <i>git add</i>, <i>git commit</i>, <i>git push</i>, <i>git clone</i>, <i>git status</i>, <i>git merge</i>, so many things were actually new. They definitely should be put into practice as much as possible to solidify knowledge.</p>
 
 **What amazed me:**
 <p>The anatomy of a commit message was a complete discovery. So, I know now that a commit message is generally broken up into a few sections. The first line is usually kept to about 50 characters or less. The line contains a short description of what the commit changes are about. After the first line, comes an empty line, and the rest of the text is usually kept under 72 characters.</p>
@@ -23,7 +23,7 @@
 
 - <code>git rm</code> - deletes or removes a file;
 - <code>git reset</code> - basically resets the repo, throwing away some changes;
-- <code>git commit</code> --amend - is used to make changes to commits after-the-fact, which can be useful for making notes about a given commit;
+- <code>git commit --amend</code> - is used to make changes to commits after-the-fact, which can be useful for making notes about a given commit;
 - <code>git revert</code> - makes a new commit which effectively rolls back a previous commit.
 
 <h3>:white_check_mark: learngitbranching.js.org</h3>
@@ -130,6 +130,11 @@
 </p>
 
 **Things to be used in the future:**
-<p>As advided, I will not rebase changes that have been pushed to remote repos.</p>
+<p><ul>
+  <li><code>git rebase</code> - to move or combine a sequence of commits to a new base commit;</li>
+   <li><code>git cherry-pick</code></li>
+</ul>
+And only practice will show which commands are actually better to use in certain cases.
+</p>
  </details>  
 
