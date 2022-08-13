@@ -112,5 +112,24 @@
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_collaboration/git-1.png">
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_collaboration/git-2.png">
    </details> 
+  
+  **Things new to me:**
+  <p>Well, this part was a bit challenging, among new things I can pick 
+  <ul>
+    <li><code>git stash</code> - to stash the changes in a dirty working directory away;</li>
+    <li><code>git cherry-pick</code> - enables arbitrary Git commits to be picked by reference and appended to the current working HEAD.</li>
+  </ul>
+  </p>
+
+**What amazed me:**
+<p>
+  <ul>
+  <li><code>git pull --rebase</code> - when we pull remote changes with the flag --rebase, then our local changes are reapplied on top of the remote changes;</li>
+  <li><code>git pull --merge</code> - when we pull remote changes with the flag --merge, then our local changes are merged with the remote changes.</li>
+</ul>
+</p>
+
+**Things to be used in the future:**
+<p>As advided, I will not rebase changes that have been pushed to remote repos.</p>
  </details>  
 
