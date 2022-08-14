@@ -4,7 +4,7 @@
 </p>
 
 ## General
-<details><summary><h2>Git Basics</h2></summary>
+<details><summary><h3>Git Basics</h3></summary>
 <h3>:white_check_mark: Coursera Introduction to Git and GitHub</h3>
 <details><summary>Week 1</summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_basics/coursera-git-week-1.png">
@@ -14,10 +14,12 @@
   </details>
   
 **Things new to me:**
-  <p>I have used before a few commands, such as <i>git add</i>, <i>git commit</i>, <i>git push</i>, <i>git clone</i>, <i>git status</i>, <i>git merge</i>, so many things were actually new. They definitely should be put into practice as much as possible to solidify knowledge.</p>
+
+I have used before a few commands, such as *git add*, *git commit*, *git push*, *git clone*, *git status*, *git merge*, so many things were actually new. They definitely should be put into practice as much as possible to solidify knowledge.
 
 **What amazed me:**
-<p>The anatomy of a commit message was a complete discovery. So, I know now that a commit message is generally broken up into a few sections. The first line is usually kept to about 50 characters or less. The line contains a short description of what the commit changes are about. After the first line, comes an empty line, and the rest of the text is usually kept under 72 characters.</p>
+
+The anatomy of a commit message was a complete discovery. So, I know now that a commit message is generally broken up into a few sections. The first line is usually kept to about 50 characters or less. The line contains a short description of what the commit changes are about. After the first line, comes an empty line, and the rest of the text is usually kept under 72 characters.
 
 **Things to be used in the future:**
 
@@ -35,15 +37,17 @@
   </details>
   
 **Things new to me:**
-<p>Introduction to git commits was quite simple. But it never hurts to repeat the information.</p>
+
+Introduction to git commits was quite simple. But it never hurts to repeat the information.
 
 **What amazed me:**
-<p>Practicing how to fetch data from a remote repository with the command <code>git fetch</code> was valuable.</p>
+
+Practicing how to fetch data from a remote repository with the command <code>git fetch</code> was valuable.
 
 **Things to be used in the future:**
 <p>All the commands from this part of https://learngitbranching.js.org/ (namely, <code>git push</code>, <code>git pull</code>, <code>git fetch</code>, etc.) can be used in the workflow.</p>
 </details>
-<details><summary><h2>Linux CLI and Networking</h2></summary>
+<details><summary><h3>Linux CLI, and HTTP</h3></summary>
   <details><summary><h3>:white_check_mark: Linux Survival (4 modules) (watch screenshots here)</h3></summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-1.png">
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-2.png">
@@ -92,7 +96,7 @@
 <p>Now I know all the cache processing which will definitely be useful in my future work.</p>
   </details>
   
-<details><summary><h2>Git Collaboration</h2></summary>
+<details><summary><h3>Git Collaboration</h3></summary>
   <details><summary><h3>:white_check_mark:  Introduction to Git and GitHub Weeks 3 and 4 (watch screenshots here)</h3></summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_collaboration/coursera-git-week-3.png">
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_collaboration/coursera-git-week-4.png">
