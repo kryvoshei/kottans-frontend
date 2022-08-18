@@ -3,8 +3,7 @@
 <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/images/photo_5454291811322411856_y.jpg" style="width: 500px; height: 500px; max-width: 100%;">
 </p>
 
-## General
-<details><summary><h3>:zero: Git Basics</h3></summary>
+<details><summary><h2>:zero: Git Basics</h2></summary>
 <h3>:white_check_mark: Coursera Introduction to Git and GitHub</h3>
 <details><summary>Week 1</summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_basics/coursera-git-week-1.png">
@@ -47,7 +46,7 @@ Practicing how to fetch data from a remote repository with the command <code>git
 **Things to be used in the future:**
 <p>All the commands from this part of https://learngitbranching.js.org/ (namely, <code>git push</code>, <code>git pull</code>, <code>git fetch</code>, etc.) can be used in the workflow.</p>
 </details>
-<details><summary><h3>:one: Linux CLI, and HTTP</h3></summary>
+<details><summary><h2>:one: Linux CLI, and HTTP</h2></summary>
   <details><summary><h3>:white_check_mark: Linux Survival (4 modules) (watch screenshots here)</h3></summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-1.png">
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-2.png">
@@ -96,7 +95,7 @@ Practicing how to fetch data from a remote repository with the command <code>git
 <p>Now I know all the cache processing which will definitely be useful in my future work.</p>
   </details>
   
-<details><summary><h3>:two: Git Collaboration</h3></summary>
+<details><summary><h2>:two: Git Collaboration</h2></summary>
   <details><summary><h3>:white_check_mark:  Introduction to Git and GitHub Weeks 3 and 4 (watch screenshots here)</h3></summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_collaboration/coursera-git-week-3.png">
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_collaboration/coursera-git-week-4.png">
@@ -142,34 +141,58 @@ And only practice will show which commands are actually better to use in certain
 </p>
  </details>  
 
-## Front-End Basics
-<details><summary><h3>:three: Intro to HTML and CSS</h3></summary>
-<details><summary><h3>:thumbsup: Coursera Intro to HTML & CSS (Weeks 1-2)</h3></summary>
+<details><summary><h2>:three: Intro to HTML and CSS</h2></summary>
+<details><summary><h3>:thumbsup: Coursera Intro to HTML & CSS (Weeks 1-2) (screenshots)</h3></summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_html_css_intro/coursera-html-css-week1.png">
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_html_css_intro/coursera-html-css-week2.png">
   </details>
   
 **Things new to me:**
-  <p>Well, this part was a bit challenging, among new things I can pick 
-  <ul>
-    <li><code>git stash</code> - to stash the changes in a dirty working directory away;</li>
-    <li><code>git cherry-pick</code> - enables arbitrary Git commits to be picked by reference and appended to the current working HEAD.</li>
-  </ul>
-  </p>
 
+Relevant history of HTML. I have not heard about WHATWG (Web Hypertext Application Technology Group) and that WHATWG and W3 started working together. The result of this cooperaion is HTML5.
+  
 **What amazed me:**
-<p>
-  <ul>
-  <li><code>git pull --rebase</code> - when we pull remote changes with the flag --rebase, then our local changes are reapplied on top of the remote changes;</li>
-  <li><code>git pull --merge</code> - when we pull remote changes with the flag --merge, then our local changes are merged with the remote changes.</li>
-</ul>
-</p>
+
+Three characters that should be escaped to make sure they don't cause rendering issues: **<**, **>**, **&**. 
 
 **Things to be used in the future:**
-<p><ul>
-  <li><code>git rebase</code> - to move or combine a sequence of commits to a new base commit;</li>
-   <li><code>git cherry-pick</code></li>
-</ul>
-And only practice will show which commands are actually better to use in certain cases.
-</p>
+
+HTML and CSS basics are the core from which the profession of a front-end developer begins. I am already familiar with the information because I have learned it before, but there are always new or forgotten details. Of course, everything will be used in my future work.
+  
+<details><summary><h3>:thumbsup: Codecademy Learn HTML, Learn CSS (screenshots)</h3></summary>
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_html_css_intro/codecademy-html-css.png">
+  </details>
+  
+**Things new to me:**
+
+  The <code>scope</code> attribute: <code>scope="row"</code> or <code>scope="col"</code> to specify that the heading is exactly for a row or for a col.
+  
+**What amazed me:**
+
+The <code>step</code> attribute in a number input which created arrows inside the input filed to increase or decrease by the value of the <code>step</code> attribute.
+  The <code>embed</code> tag which can embed any media content including videos, audio files and gifts from an external source. :exclamation: **It is deprecated.**
+
+**Things to be used in the future:**
+
+Everything in these courses is useful to understand the basics and prepare the ground for JS learning, to make layouts, and to better understand some common things every front-end developer should know. I will definitely use all the things.
+  </details>
+  
+<details><summary><h2>:four: Responsive Web Design</h2></summary>
+<details><summary><h3>:thumbsup: Coursera Intro to HTML & CSS (Weeks 1-2 (screenshots))</h3></summary>
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_html_css_intro/coursera-html-css-week1.png">
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_html_css_intro/coursera-html-css-week2.png">
+  </details>
+  
+**Things new to me:**
+
+Relevant history of HTML. I have not heard about WHATWG (Web Hypertext Application Technology Group) and that WHATWG and W3 started working together. The result of this cooperation is HTML5.
+  
+**What amazed me:**
+
+Three characters that should be escaped to make sure they don't cause rendering issues: **<**, **>**, **&**. 
+
+**Things to be used in the future:**
+
+HTML and CSS basics are the core from which the profession of a front-end developer begins. I am already familiar with the information because I have learned it before, but there are always new or forgotten details. Of course, everything will be used in my future work.
 </details>
+  
