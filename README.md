@@ -178,21 +178,37 @@ Everything in these courses is useful to understand the basics and prepare the g
   </details>
   
 <details><summary><h2>:four: Responsive Web Design</h2></summary>
-<details><summary><h3>:thumbsup: Coursera Intro to HTML & CSS (Weeks 1-2 (screenshots))</h3></summary>
-  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_html_css_intro/coursera-html-css-week1.png">
-  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_html_css_intro/coursera-html-css-week2.png">
-  </details>
-  
+<h3>:thumbsup: <a href="https://web.dev/i18n/en/responsive-web-design-basics/" target="_blank">Responsive web design basics</a></h3>
+   
 **Things new to me:**
 
-Relevant history of HTML. I have not heard about WHATWG (Web Hypertext Application Technology Group) and that WHATWG and W3 started working together. The result of this cooperation is HTML5.
+Multi-column layout (Multicol) which can create responsive numbers of columns with the column-width property.
   
 **What amazed me:**
 
-Three characters that should be escaped to make sure they don't cause rendering issues: **<**, **>**, **&**. 
+The features any-hover and any-pointer that test if the user has the capability to hover or use the type of pointer even if it is not the primary way they are interacting with the device. :exclamation: **Though we should be very careful when using them.**
 
 **Things to be used in the future:**
 
-HTML and CSS basics are the core from which the profession of a front-end developer begins. I am already familiar with the information because I have learned it before, but there are always new or forgotten details. Of course, everything will be used in my future work.
+Information about images is just top. To never have a problem with images causing a scrollbar, we need to use the following: 
+
+**img {
+  max-width: 100%;
+  display: block;
+}**
+
+<h3>:thumbsup: <a href="https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x" target="_blank">FLEXBOX. Вчимося верстати на флексах</a> і <a href="https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm">CSS Grid Layout</a></h3>
+   
+**Things new to me:**
+
+Zhenya Andricanych just rocks. I have been subscribed to his YouTube channel for a year now, and I have already watched these playlists. 
+  
+**What amazed me:**
+
+It is amazing how quickly you can forget the information if you do not use it on an ongoing basis. I do not usually use CSS grid layout, so it was good to rewatch the videos.
+
+**Things to be used in the future:**
+
+I like Flexbox more, it seems easier to me. In case the Grid layout will be required, I will be able to fulfill it.
 </details>
   
