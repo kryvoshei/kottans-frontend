@@ -201,7 +201,7 @@ Information about images is just top. To never have a problem with images causin
    
 **Things new to me:**
 
-Zhenya Andricanych just rocks. I have been subscribed to his YouTube channel for a year now, and I have already watched these playlists. 
+Zhenya Andrikanych just rocks. I have been subscribed to his YouTube channel for a year now, and I have already watched these playlists. 
   
 **What amazed me:**
 
@@ -210,5 +210,10 @@ It is amazing how quickly you can forget the information if you do not use it on
 **Things to be used in the future:**
 
 I like Flexbox more, it seems easier to me. In case the Grid layout will be required, I will be able to fulfill it.
+
+<details><summary><h3>:thumbsup: Flexbox Froggy and Grid Garden (screenshots)</h3></summary>
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_responsive_web_design/flexbox-froggy.png">
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_responsive_web_design/grid-garden.png">
+  </details>
 </details>
   
