@@ -4,7 +4,7 @@
 </p>
 
 ## General
-<details><summary><h3>Git Basics</h3></summary>
+<details><summary><h3>:zero: Git Basics</h3></summary>
 <h3>:white_check_mark: Coursera Introduction to Git and GitHub</h3>
 <details><summary>Week 1</summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_basics/coursera-git-week-1.png">
@@ -47,7 +47,7 @@ Practicing how to fetch data from a remote repository with the command <code>git
 **Things to be used in the future:**
 <p>All the commands from this part of https://learngitbranching.js.org/ (namely, <code>git push</code>, <code>git pull</code>, <code>git fetch</code>, etc.) can be used in the workflow.</p>
 </details>
-<details><summary><h3>Linux CLI, and HTTP</h3></summary>
+<details><summary><h3>:one: Linux CLI, and HTTP</h3></summary>
   <details><summary><h3>:white_check_mark: Linux Survival (4 modules) (watch screenshots here)</h3></summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-1.png">
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_linux_cli/linux-quiz-2.png">
@@ -96,7 +96,7 @@ Practicing how to fetch data from a remote repository with the command <code>git
 <p>Now I know all the cache processing which will definitely be useful in my future work.</p>
   </details>
   
-<details><summary><h3>Git Collaboration</h3></summary>
+<details><summary><h3>:two: Git Collaboration</h3></summary>
   <details><summary><h3>:white_check_mark:  Introduction to Git and GitHub Weeks 3 and 4 (watch screenshots here)</h3></summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_collaboration/coursera-git-week-3.png">
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_git_collaboration/coursera-git-week-4.png">
@@ -142,3 +142,34 @@ And only practice will show which commands are actually better to use in certain
 </p>
  </details>  
 
+## Front-End Basics
+<details><summary><h3>:three: Intro to HTML and CSS</h3></summary>
+<details><summary><h3>:thumbsup: Coursera Intro to HTML & CSS (Weeks 1-2)</h3></summary>
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_html_css_intro/coursera-html-css-week1.png">
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_html_css_intro/coursera-html-css-week2.png">
+  </details>
+  
+**Things new to me:**
+  <p>Well, this part was a bit challenging, among new things I can pick 
+  <ul>
+    <li><code>git stash</code> - to stash the changes in a dirty working directory away;</li>
+    <li><code>git cherry-pick</code> - enables arbitrary Git commits to be picked by reference and appended to the current working HEAD.</li>
+  </ul>
+  </p>
+
+**What amazed me:**
+<p>
+  <ul>
+  <li><code>git pull --rebase</code> - when we pull remote changes with the flag --rebase, then our local changes are reapplied on top of the remote changes;</li>
+  <li><code>git pull --merge</code> - when we pull remote changes with the flag --merge, then our local changes are merged with the remote changes.</li>
+</ul>
+</p>
+
+**Things to be used in the future:**
+<p><ul>
+  <li><code>git rebase</code> - to move or combine a sequence of commits to a new base commit;</li>
+   <li><code>git cherry-pick</code></li>
+</ul>
+And only practice will show which commands are actually better to use in certain cases.
+</p>
+</details>
