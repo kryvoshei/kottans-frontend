@@ -217,3 +217,42 @@ I like Flexbox more, it seems easier to me. In case the Grid layout will be requ
   </details>
 </details>
   
+ <details><summary><h2>:six: JS Basics</h2></summary>
+<details><summary><h3>:white_check_mark: Coursera Introduction to JavaScript</h3></summary>
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_js_basics/Coursera-JavaScript.png">
+  </details>
+   <details><summary><h3>:white_check_mark: FreeCodeCamp Tasks</h3></summary>
+  <details><summary>Basic JavaScript</h3></summary>
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_js_basics/basic-javascript.png">
+  </details>
+  <details><summary>ES6 Challenges</h3></summary>
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_js_basics/es6-challenges.png">
+  </details>
+    <details><summary>Basic Data Structures</h3></summary>
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_js_basics/basic-data-sctructures.png">
+  </details>
+     <details><summary>Basic Algorithm Scripting</h3></summary>
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_js_basics/basic-algorithm-scripting.png">
+  </details>
+   <details><summary>Functional Programming</h3></summary>
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_js_basics/functional-programming.png">
+  </details>
+     <details><summary>Algorithm Scripting Challenges</h3></summary>
+  <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_js_basics/algorithm-scripting-challenges.png">
+  </details>
+  </details>
+  
+**Things new to me:**
+
+Fortunately, I had already done most of these tasks some time ago. Therefore, I only had to complete Intermediate Algorithm Scripting.
+  
+**What amazed me:**
+
+
+
+**Things to be used in the future:**
+
+I like Flexbox more, it seems easier to me. In case the Grid layout will be required, I will be able to fulfill it.
+ 
+  </details>
+  
