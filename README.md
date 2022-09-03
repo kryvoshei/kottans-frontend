@@ -217,6 +217,14 @@ I like Flexbox more, it seems easier to me. In case the Grid layout will be requ
   </details>
 </details>
   
+<details><summary><h2>:five: HTML-CSS-Popup</h2></summary>
+  
+[Demo](https://kryvoshei.github.io/hooli-style-popup/) | [Code base](https://github.com/kryvoshei/hooli-style-popup)
+  
+It was great to practice and complete this task. If I had not started inventing something with :target, I would have done the task much faster, it is good that I asked about :target in the chat before making PR. Conclusions are made and practice is actually invaluable)
+  
+</details>
+  
  <details><summary><h2>:six: JS Basics</h2></summary>
 <details><summary><h3>:white_check_mark: Coursera Introduction to JavaScript</h3></summary>
   <img src="https://github.com/kryvoshei/kottans-frontend/blob/main/task_js_basics/Coursera-JavaScript.png">
@@ -248,11 +256,11 @@ Fortunately, I had already done most of these tasks some time ago. Therefore, I 
   
 **What amazed me:**
 
-
+Instead of using loops, we can use array methods, e.g., <code>every</code>, <code>map</code>, <code>reduce</code>, and <code>filter</code>, which makes our code more readable, easier to understand and debug.
 
 **Things to be used in the future:**
 
-I like Flexbox more, it seems easier to me. In case the Grid layout will be required, I will be able to fulfill it.
+All basic knowledge of JavaScript is necessary for further work with this programming language. Good to know when to use <code>slice</code>, not <code>splice</code>. The core concepts of Functional Programming are also a must for those who are engaged in programming.
  
   </details>
   
